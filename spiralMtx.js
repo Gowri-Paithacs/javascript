@@ -1,5 +1,5 @@
 //Print a spiral matrix 
-let n = Number(prompt("Enter Spiral matrix size:"));
+let n = 3;
 function spiralMatrix(n) {
     let matrix = [];
     for (let i = 0; i < n; i++) {
